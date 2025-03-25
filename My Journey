@@ -4,3 +4,5 @@ I am not really sure what all to expect from GitHub. As of now I am totally blan
 	1) How to create a repository on the web interface
  2) How to create a file within a repository within the web interface
  3) How to publish the file contents from the web interface. i.e. COMMITTING changes
+
+So this is essentially my first edit on the file. I have created a branch from the main branch. My assumption is that when I commit the changes the original file will continue looking the same. Let's test it out. 
